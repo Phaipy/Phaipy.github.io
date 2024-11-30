@@ -1,6 +1,6 @@
 # Real user monitoring (RUM) 
 
-| CISSP Glossary | Middleware |
+|  CISSP Glossary |  Middleware |
 | [(WebSite CISSP)](https://www.isc2.org/certifications/cissp/cissp-student-glossary) | [(WebSite Middleware)](https://middleware.io/blog/what-is-real-user-monitoring/) |
 | --- | --- |
 |An approach to web monitoring that aims to capture and analyze every transaction of every user of a website or application. | A method used to observe and analyze how actual users interact with websites or applications.By collecting and analyzing real-time data on user behaviors, such as page loading times, clicks, and navigation patterns, RUM offers valuable insights into the actual performance and user experience.|
