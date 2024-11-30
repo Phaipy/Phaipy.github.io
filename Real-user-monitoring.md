@@ -1,4 +1,4 @@
-#Real user monitoring (RUM) 
+# Real user monitoring (RUM) 
 
 - CISSP Glossary
   - An approach to web monitoring that aims to capture and analyze every transaction of every user of a website or application.
