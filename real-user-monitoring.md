@@ -15,3 +15,4 @@
 
 - SimpleinDailylife = เว็บไซต์ข่าววัดเวลาโหลดหน้าแรกติดตามพฤติกรรมการเลื่อนอ่านข่าวตรวจสอบประสบการณ์ผู้ใช้โดยรวม
 
+URL Duo งาน = [Phantharatt](phantharatt.github.io)
