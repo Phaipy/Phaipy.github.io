@@ -5,4 +5,4 @@
 
 ![Alt text](Img/received_1518586468807450.jpeg)
 
-[Alt text](Real-user-monitoring)
+[Real user monitoring (RUM)](Real-user-monitoring)
