@@ -1,3 +1,3 @@
 # Christmas & New Year 2025
  
-![Alt text](Img/received_ดาวน์โหลด.png)
+![Alt text](Img/ดาวน์โหลด.png)
