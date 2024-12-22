@@ -3,4 +3,4 @@
 -  เครื่องมือที่ใช้ซ่อนข้อความ [(Steganography)](https://stylesuxx.github.io/steganography/)
 
 
-![Alt text](Img/ดาวน์โหลด.png)
+![Alt text](Img/MCHNY.png)
