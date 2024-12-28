@@ -1,8 +1,12 @@
 # Data Uniqueness 
 
+Data Uniqueness Source (https://www.isc2.org/certifications/cissp/cissp-student-glossary) 
 
-| Data Uniqueness | Source (https://www.isc2.org/certifications/cissp/cissp-student-glossary) |
-|   Think of data uniqueness as the “no doubles” rule – each piece of data should exist exactly once in your system. When you have duplicates floating around, it’s like having multiple versions of the same document – you never know which one is the one you should trust. Plus, getting rid of duplicates makes your systems run faster since there’s less redundant data to process.   |  ----  | |  ChatGPT ลองนึกถึงความเป็นเอกลักษณ์ของข้อมูล (Data Uniqueness) ว่าเป็นกฎ "ห้ามซ้ำ" – ข้อมูลแต่ละชิ้นควรมีอยู่ในระบบเพียงครั้งเดียวเท่านั้น หากคุณมีข้อมูลซ้ำกระจัดกระจายไปทั่ว ก็เหมือนกับการมีเอกสารหลายฉบับที่เหมือนกันจนไม่รู้ว่าควรเชื่อฉบับไหน นอกจากนี้ การกำจัดข้อมูลซ้ำยังช่วยให้ระบบทำงานได้เร็วขึ้น เพราะไม่มีข้อมูลที่ซ้ำซ้อนให้ต้องประมวลผลเพิ่มเติมอีกด้วย | Gemini คิดถึงความเป็นเอกลักษณ์ของข้อมูลเสมือนกับกฎ 'ห้ามซ้ำ' - ข้อมูลแต่ละชิ้นควรมีอยู่เพียงครั้งเดียวในระบบของคุณ เมื่อคุณมีข้อมูลซ้ำกันลอยอยู่รอบๆ มันก็เหมือนกับมีเอกสารหลายเวอร์ชันของเอกสารเดียวกัน - คุณไม่รู้เลยว่าอันไหนคืออันที่คุณควรเชื่อถือ นอกจากนี้ การกำจัดข้อมูลซ้ำทำให้ระบบของคุณทำงานได้เร็วขึ้น เนื่องจากมีข้อมูลซ้ำซ้อนน้อยลงในการประมวลผล|
+- Think of data uniqueness as the “no doubles” rule – each piece of data should exist exactly once in your system. When you have duplicates floating around, it’s like having multiple versions of the same document – you never know which one is the one you should trust. Plus, getting rid of duplicates makes your systems run faster since there’s less redundant data to process.
+  
+- ChatGPT ลองนึกถึงความเป็นเอกลักษณ์ของข้อมูล (Data Uniqueness) ว่าเป็นกฎ "ห้ามซ้ำ" – ข้อมูลแต่ละชิ้นควรมีอยู่ในระบบเพียงครั้งเดียวเท่านั้น หากคุณมีข้อมูลซ้ำกระจัดกระจายไปทั่ว ก็เหมือนกับการมีเอกสารหลายฉบับที่เหมือนกันจนไม่รู้ว่าควรเชื่อฉบับไหน นอกจากนี้ การกำจัดข้อมูลซ้ำยังช่วยให้ระบบทำงานได้เร็วขึ้น เพราะไม่มีข้อมูลที่ซ้ำซ้อนให้ต้องประมวลผลเพิ่มเติมอีกด้วย
+  
+- Gemini คิดถึงความเป็นเอกลักษณ์ของข้อมูลเสมือนกับกฎ 'ห้ามซ้ำ' - ข้อมูลแต่ละชิ้นควรมีอยู่เพียงครั้งเดียวในระบบของคุณ เมื่อคุณมีข้อมูลซ้ำกันลอยอยู่รอบๆ มันก็เหมือนกับมีเอกสารหลายเวอร์ชันของเอกสารเดียวกัน - คุณไม่รู้เลยว่าอันไหนคืออันที่คุณควรเชื่อถือ นอกจากนี้ การกำจัดข้อมูลซ้ำทำให้ระบบของคุณทำงานได้เร็วขึ้น เนื่องจากมีข้อมูลซ้ำซ้อนน้อยลงในการประมวลผล|
  
 
 -   My Summary = Data Uniqueness หมายถึง การที่ข้อมูลแต่ละชิ้นในระบบนั้นมีค่าที่ไม่ซ้ำซ้อนกัน หรือกล่าวอีกนัยหนึ่งคือ ข้อมูลแต่ละชิ้นนั้นมีเอกลักษณ์เฉพาะตัว ไม่มีความซ้ำซ้อนกับข้อมูลอื่นๆในระบบ  เป็นหลักการสำคัญในการจัดการข้อมูลที่ช่วยให้มั่นใจได้ว่าข้อมูลมีความถูกต้อง น่าเชื่อถือ และสามารถนำไปใช้งานได้อย่างมีประสิทธิภาพ
