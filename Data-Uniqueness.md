@@ -1,7 +1,7 @@
 # Data Uniqueness 
 
 
-| [(Data Uniqueness)](https://www.montecarlodata.com/blog-data-uniqueness/) |![Uploading logo-OYJ34ERC.png…]()
+| [(Data Uniqueness)](https://www.montecarlodata.com/blog-data-uniqueness/) |
 
 
 
