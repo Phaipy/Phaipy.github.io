@@ -1,6 +1,7 @@
 # Data Uniqueness 
 
-Data Uniqueness [(Source)](https://www.montecarlodata.com/blog-data-uniqueness/) 
+Data Uniqueness 
+[(Source)](https://www.montecarlodata.com/blog-data-uniqueness/) 
 
 - Think of data uniqueness as the “no doubles” rule – each piece of data should exist exactly once in your system. When you have duplicates floating around, it’s like having multiple versions of the same document – you never know which one is the one you should trust. Plus, getting rid of duplicates makes your systems run faster since there’s less redundant data to process.
 
