@@ -35,6 +35,27 @@
 
 ## วิดีโอกิจกรรม
 
-src="https://youtu.be/0B2iD-YyFcw"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed YouTube Video</title>
+</head>
+<body>
+    <!-- วิดีโอ YouTube -->
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/0B2iD-YyFcw?si=AaUsiJONDK1tXgdk" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
+
 
 
