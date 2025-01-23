@@ -21,3 +21,13 @@
   - เพื่อน 3 คน (คณะวิทยาการจัดการ) Staff 3 คน (คณะวิทยาการคอมพิวเตอร์)
 
 ## ภาพกิจกรรมการเล่นบอร์ดเกม
+
+![Alt text](Img/5.jpeg)
+
+![Alt text](Img/4.jpeg)
+
+![Alt text](Img/3.jpeg)
+
+![Alt text](Img/2.jpeg)
+
+![Alt text](Img/1.jpeg)
