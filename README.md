@@ -11,4 +11,4 @@
 
 -  [Data Quality Uniqueness](uniqueness.md)
 
-- [Cyber Board Game](Cyber-Board-Game.md)
+- [Cyber Board Game](boardgame.md)
