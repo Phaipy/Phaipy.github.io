@@ -10,3 +10,5 @@
 -  [E-card Christmas & New Year 2025](e-card-Christmas-NewYear2025.md)
 
 -  [Data Quality Uniqueness](uniqueness.md)
+
+- [Cyber Board Game](Cyber-Board-Game.md)
