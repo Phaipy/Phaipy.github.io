@@ -22,12 +22,12 @@
 
 ## ภาพกิจกรรมการเล่นบอร์ดเกม
 
-![Alt text](Img/5.jpeg)
+![Alt text](Img/5.jpg)
 
-![Alt text](Img/4.jpeg)
+![Alt text](Img/4.jpg)
 
-![Alt text](Img/3.jpeg)
+![Alt text](Img/3.jpg)
 
-![Alt text](Img/2.jpeg)
+![Alt text](Img/2.jpg)
 
-![Alt text](Img/1.jpeg)
+![Alt text](Img/1.jpg)
