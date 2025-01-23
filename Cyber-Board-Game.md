@@ -45,7 +45,7 @@
 <body>
     <!-- วิดีโอ YouTube -->
     <iframe 
-        width="560" 
+        width="600" 
         height="315" 
         src="https://www.youtube.com/embed/0B2iD-YyFcw?si=AaUsiJONDK1tXgdk" 
         title="YouTube video player" 
@@ -58,4 +58,12 @@
 </html>
 
 
+## ทางกลุ่มผู้จัดทำได้ขออนุญาตผู้ร่วมเล่นกิจกรรมในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media แล้วเรียบร้อย
 
+สมาชิกกลุ่ม Cyber Board Game 
+- ท่าน
+- ท่าน
+- ท่าน
+- ท่าน
+- ท่าน
+- ท่าน
