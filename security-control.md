@@ -1,6 +1,9 @@
 # :lock_with_ink_pen:  Security Control
 
-![Alt text](Img/Riot.png)
+<div class="image-container">
+    <img src="Img/Riot.png" alt="Img">
+</div>
+
 <style>
 .image-container {
     display: flex;
