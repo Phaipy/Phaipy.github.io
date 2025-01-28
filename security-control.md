@@ -11,7 +11,7 @@
   - ฟังก์ชันของการควบคุม (Control Function) : Preventative Control
 
 <h2>&#128204; คุณสมบัติสำคัญ</h2>
-Riot Vanguard ซึ่งเป็นระบบป้องกันการโกงเกม (anti-cheat system) ที่พัฒนาโดย Riot Games จัดอยู่ในประเภท Technical Preventive Control เนื่องจากมีคุณสมบัติในการ: 
+Riot Vanguard ซึ่งเป็นระบบป้องกันการโกงเกม (anti-cheat system) ที่พัฒนาโดย Riot Games จัดอยู่ในประเภท Technical Preventative Control เนื่องจากมีคุณสมบัติในการ: 
 <h3>ป้องกันการใช้งานซอฟต์แวร์ที่ไม่ได้รับอนุญาต(Unauthorized Software):</h3>
   - Vanguard ทำหน้าที่ตรวจสอบและป้องกันไม่ให้ผู้เล่นใช้งานโปรแกรมช่วยเล่น เช่น โปรแกรมโกง (cheat tools) หรือสคริปต์ที่ทำลายสมดุลในเกม
 
