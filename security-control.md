@@ -1,16 +1,16 @@
-# :lock_with_ink_pen:Security Control
+<h1>&#128274; Security Control</h1>
 
 ![Alt text](Img/Riot.png)
 
 
-# :space_invader:Riot vanguard 
+<h2>&#128126; Riot Vanguard</h2>
 ***Riot vanguard*** คือ ซอฟต์แวร์ป้องกันการโกง (Anti-Cheat Software) ที่พัฒนาโดย Riot Games เพื่อใช้ในเกมของบริษัท เช่น Valorant โดยซอฟต์แวร์นี้ถูกออกแบบมาเพื่อป้องกันการโกงในเกมออนไลน์ โดยการตรวจสอบและบล็อกซอฟต์แวร์ที่ไม่พึงประสงค์ เช่น Cheat Engine, สคริปต์, หรือโปรแกรมที่พยายามดัดแปลงเกมหรือระบบ 
 
-# :crossed_flags:ประเภทของ Security Control
-- ประเภท (Type of Security Control) : Technical Control
-- ฟังก์ชันของการควบคุม (Control Function) : Preventative Control
+<h2>&#127988; ประเภทของ Security Control</h2>
+  - ประเภท (Type of Security Control) : Technical Control
+  - ฟังก์ชันของการควบคุม (Control Function) : Preventative Control
 
-# :pushpin:คุณสมบัติสำคัญ
+<h2>&#128204; คุณสมบัติสำคัญ</h2>
 ***Kernel-Level Access:***
   - Riot Vanguard ทำงานในระดับ Kernel ของระบบปฏิบัติการ (ลึกที่สุดในโครงสร้างซอฟต์แวร์) ซึ่งช่วยให้สามารถตรวจสอบและบล็อกโปรแกรมที่พยายามดัดแปลงระบบหรือใช้ช่องโหว่ในการโกงเกม
 
@@ -26,5 +26,5 @@
 ***System Compatibility:***
   - Riot Vanguard ถูกออกแบบให้ทำงานร่วมกับระบบปฏิบัติการหลัก เช่น Windows โดยลดผลกระทบต่อประสิทธิภาพของระบบให้น้อยที่สุด
 
-#:trophy:สรุป
+<h2>&#127942; สรุป</h2>
 Riot Vanguard เป็น Technical Security Control ในรูปแบบของ Preventive Control ที่ออกแบบมาเพื่อป้องกันการโกงในเกม โดยเน้นการตรวจจับ การบล็อก และการตรวจสอบความสมบูรณ์ของระบบในระดับ Kernel เพื่อเพิ่มความปลอดภัยในการเล่นเกมออนไลน์
