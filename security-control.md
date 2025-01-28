@@ -1,6 +1,14 @@
 # :lock_with_ink_pen:  Security Control
 
 ![Alt text](Img/Riot.png)
+<style>
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* ทำให้ container สูงเต็มจอ */
+}
+</style>
 
 # :space_invader: Riot vanguard 
 ***Riot vanguard*** คือ ซอฟต์แวร์ป้องกันการโกง (Anti-Cheat Software) ที่พัฒนาโดย Riot Games เพื่อใช้ในเกมของบริษัท เช่น Valorant โดยซอฟต์แวร์นี้ถูกออกแบบมาเพื่อป้องกันการโกงในเกมออนไลน์ โดยการตรวจสอบและบล็อกซอฟต์แวร์ที่ไม่พึงประสงค์ เช่น Cheat Engine, สคริปต์, หรือโปรแกรมที่พยายามดัดแปลงเกมหรือระบบ 
