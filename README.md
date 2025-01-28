@@ -13,3 +13,5 @@
 -  [Data Quality Uniqueness](uniqueness.md)
 
 - [Cyber Board Game](boardgame.md)
+
+- [Security Control](security-control.md)
