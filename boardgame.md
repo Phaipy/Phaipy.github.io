@@ -62,8 +62,8 @@
 
 สมาชิกกลุ่ม Cyber Board Game 
 - [JetnipatMark](https://jetnipatmark.github.io/boardgame) 
-- [Harry Proster](https://prxsss.github.io/boardgame)
-- [Kitti](https://kitty340822.github.io/boardgame)
+- [Phuriphat](https://prxsss.github.io/boardgame)
+- [Kittithorn](https://kitty340822.github.io/boardgame)
 - [Panyawat](https://top123321.github.io/boardgame)
 - [Kasidit](https://kasidit1647.github.io/boardgame)
 - [Suraphak](https://titigerherb.github.io/boardgame)
