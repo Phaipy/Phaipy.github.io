@@ -61,9 +61,9 @@
 ## ทางกลุ่มผู้จัดทำได้ขออนุญาตผู้ร่วมเล่นกิจกรรมในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media แล้วเรียบร้อย
 
 สมาชิกกลุ่ม Cyber Board Game 
-- [ท่าน JetnipatMark](https://jetnipatmark.github.io/boardgame) 
-- [ท่าน Harry Proster](https://prxsss.github.io/boardgame)
-- [ท่าน Kitti](https://kitty340822.github.io/boardgame)
-- [ท่าน Top](https://top123321.github.io/boardgame)
-- [ท่าน Kasidit](https://kasidit1647.github.io/boardgame)
-- [ท่าน Suraphak](https://titigerherb.github.io/boardgame)
+- [JetnipatMark](https://jetnipatmark.github.io/boardgame) 
+- [Harry Proster](https://prxsss.github.io/boardgame)
+- [Kitti](https://kitty340822.github.io/boardgame)
+- [Panyawat](https://top123321.github.io/boardgame)
+- [Kasidit](https://kasidit1647.github.io/boardgame)
+- [Suraphak](https://titigerherb.github.io/boardgame)
