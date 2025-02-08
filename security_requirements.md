@@ -1,4 +1,4 @@
-<h1>&#127758; Service Authentication 2.10.1 </h1>
+<h1>&#127758; Security Requirements </h1>
 
 <h1>&#128011; V2.10.1 Service Authentication</h1>
 <ul>
