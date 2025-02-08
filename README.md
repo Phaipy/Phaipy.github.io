@@ -18,4 +18,4 @@
 
 - [Pao elections](pao-elections.md)
 
-- [Security Requirements](security_requirements.md)
+- [Security Requirements](security-requirements.md)
